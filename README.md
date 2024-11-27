@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eigenpilar
 - 👀 I’m interested in applied mathematics
-- 🌱 I’m currently learning optimization
-- 😄 Pronouns: she/they
+- 🌱 I’m currently learning optimization, functional analysis and C++
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I play viola
 
 <!---
