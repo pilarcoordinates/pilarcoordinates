@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eigenpilar
 - 👀 I’m interested in applied mathematics
-- 🌱 I’m currently learning optimization, functional analysis and C++
+- 🌱 I’m currently learning sheaf cohomology and C
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play viola
 
