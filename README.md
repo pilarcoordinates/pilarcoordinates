@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eigenpilar
+- 👋 Hi, I’m @pilarcoordinates
 - 👀 I’m interested in applied mathematics
-- 🌱 I’m currently learning sheaf cohomology and C
+- 🌱 I’m currently learning bash
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play viola
 
